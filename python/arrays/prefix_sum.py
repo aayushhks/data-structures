@@ -1,11 +1,3 @@
-"""
-Author  : Alexander Pantyukhin
-Date    : November 3, 2022
-
-Implement the class of prefix sum with useful functions based on it.
-
-"""
-
 
 class PrefixSum:
     def __init__(self, array: list[int]) -> None:
