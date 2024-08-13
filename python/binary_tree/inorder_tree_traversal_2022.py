@@ -1,6 +1,5 @@
 """
 Illustrate how to implement inorder traversal in binary search tree.
-Author: Gurneet Singh
 https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/
 """
 
