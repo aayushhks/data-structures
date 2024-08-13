@@ -1,7 +1,4 @@
 """
-Author  : Alexander Pantyukhin
-Date    : November 7, 2022
-
 Task:
 You are given a tree root of a binary tree with n nodes, where each node has
 node.data coins. There are exactly n coins in whole tree.
